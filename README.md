@@ -11,7 +11,7 @@ M5シリーズ用のミニゲームです。
 <br>
 <br>
 製作にあたりbytesByHarsh氏の<br>
-https://github.com/bytesByHarsh/youtubeProjects/blob/master/Arduino/dino_game　<br>
+https://github.com/bytesByHarsh/youtubeProjects/blob/master/Arduino/dino_game<br>
 を参考にしました。<br>
 <br>
 ![dino2](https://github.com/user-attachments/assets/cbe8d352-7f07-45b9-83f7-2880537934d6)
